@@ -1,0 +1,9 @@
+PyAudio==0.2.11
+requests==2.18.1
+moviepy==0.2.3.2
+
+
+
+
+
+'7ed090c64ac4414a80a4b20b81875717'
